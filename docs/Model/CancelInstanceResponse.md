@@ -1,0 +1,10 @@
+# CancelInstanceResponse
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**data** | [**\Contabo\ContaboSdk\Model\CancelInstanceResponseData[]**](CancelInstanceResponseData.md) |  | 
+**_links** | [**AllOfCancelInstanceResponseLinks**](AllOfCancelInstanceResponseLinks.md) |  | 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+

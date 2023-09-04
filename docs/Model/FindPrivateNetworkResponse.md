@@ -1,0 +1,10 @@
+# FindPrivateNetworkResponse
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**data** | [**\Contabo\ContaboSdk\Model\PrivateNetworkResponse[]**](PrivateNetworkResponse.md) |  | 
+**_links** | [**AllOfFindPrivateNetworkResponseLinks**](AllOfFindPrivateNetworkResponseLinks.md) |  | 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
